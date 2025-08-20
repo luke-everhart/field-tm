@@ -54,6 +54,7 @@ dependencies = [
     "pg-nearest-city==0.2.1",
     "raw-data-api-py>=0.3.0",
     "pyodk",
+    "geojson-aoi-parser>=0.3.0",
 ]
 readme = "../../README.md"
 license = {text = "AGPL-3.0-only"}
